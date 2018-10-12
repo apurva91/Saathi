@@ -10,6 +10,9 @@
  - It will also notify the people in the nearby area and give them guidlines on how to help the people who are in need.
  - Relief teams can also call for assistance using this app as and when needed.
 
+### How does this help:
+This project believes in better managment of the disasters. Whenever a disaster occurs both side of people should be ready, i.e., the rescuers and the rescuees.
+
 ### Members:
  - Abhishek Suryavanshi
  - Apurva N Saraogi
